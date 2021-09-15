@@ -17,7 +17,7 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: "mehmet",
   headerTagline: [
     //Line 1 For Header
     "Building digital",
@@ -28,10 +28,10 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+    "Learning everthing for us.",
 
   //Contact Email
-  contactEmail: "hello@chetanverma.com",
+  contactEmail: "me@mehmettokyay.com",
 
   // End Header Details -----------------------
 
@@ -174,7 +174,7 @@ export default {
   contactSubHeading: "Let's create your next experience together",
   social: [
     // Add Or Remove The Link Accordingly
-    { img: githubIcon, url: "https://github.com/chetanverma16" },
+    { img: githubIcon, url: "https://github.com/mtokyay" },
     {
       img: codepenIcon,
       url: "https://www.codepen.com/",
